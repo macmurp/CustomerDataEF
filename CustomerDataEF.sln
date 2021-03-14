@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer.csproj", "{D7C453D7-A2DF-4D78-B4A1-7CF60E538577}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{818CC65B-F049-42E1-9E76-C17528FAC358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C453D7-A2DF-4D78-B4A1-7CF60E538577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C453D7-A2DF-4D78-B4A1-7CF60E538577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C453D7-A2DF-4D78-B4A1-7CF60E538577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C453D7-A2DF-4D78-B4A1-7CF60E538577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818CC65B-F049-42E1-9E76-C17528FAC358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818CC65B-F049-42E1-9E76-C17528FAC358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818CC65B-F049-42E1-9E76-C17528FAC358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818CC65B-F049-42E1-9E76-C17528FAC358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2E2A0A-0006-42EC-A7D1-043B124D9B71}
+	EndGlobalSection
+EndGlobal
